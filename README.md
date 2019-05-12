@@ -1,7 +1,7 @@
 # dl4dummies
 Deep Learning For Dummies - code repository
 
-<a href="https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543039"><img src="Deep Learning For Dummies.jpg" alt="Deep Learning For Dummies Cover" height="320px" align="center"></a>
+<a href="https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543039"><img src="Deep Learning For Dummies.jpg" alt="Deep Learning For Dummies Cover" height="448px" align="center"></a>
 
 Authors: John Paul Mueller, Luca Massaron
 
