@@ -1,7 +1,7 @@
 # dl4dummies
 Deep Learning For Dummies - code repository
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lmassaron/dl4dummies)
 
 + [Chapter 3 - Comments](https://colab.research.google.com/github/lmassaron/dl4dummies/blob/master/DL4D_03_Comments.ipynb)
 
