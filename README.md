@@ -1,9 +1,7 @@
 # dl4dummies
 Deep Learning For Dummies - code repository
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-
-[Chapter 3 - Comments](https://colab.research.google.com/github/lmassaron/dl4dummies/blob/master/DL4D_03_Comments.ipynb)
++ [Chapter 3 - Comments](https://colab.research.google.com/github/lmassaron/dl4dummies/blob/master/DL4D_03_Comments.ipynb)
 
 Chapter 3 - Dataset Load:
 
