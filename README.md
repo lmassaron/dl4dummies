@@ -1,6 +1,14 @@
 # dl4dummies
 Deep Learning For Dummies - code repository
 
+![Deep Learning For Dummies Cover](Deep Learning For Dummies.jpg)
+
+Authors: John Paul Mueller, Luca Massaron
+
+Deep learning provides the means for discerning patterns in the data that drive online business, medicine, research, social media outlets, and many elements of daily life. This book gives you the information you need to take the mystery out of the topic—and all of the underlying technologies associated with it. In no time, you’ll make sense of those increasingly confusing algorithms, and find a simple and safe environment to experiment with deep learning.
+
+You can run all the examples in the book on Google Colab by simply using the links below:
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lmassaron/dl4dummies)
 
 + [Chapter 3 - Comments](https://colab.research.google.com/github/lmassaron/dl4dummies/blob/master/DL4D_03_Comments.ipynb)
