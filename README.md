@@ -1,5 +1,5 @@
 # dl4dummies
-**Deep Learning For Dummies - code repository**
+**Deep Learning For Dummies - code repository maintained by one of the authors**
 
 <a href="https://www.wiley.com/en-us/Deep+Learning+For+Dummies-p-9781119543039"><img src="Deep Learning For Dummies.jpg" alt="Deep Learning For Dummies Cover" height="448px" align="center"></a>
 
